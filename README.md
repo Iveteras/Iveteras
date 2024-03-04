@@ -11,14 +11,11 @@ My name is Pedro, and I graduated in Business Administration from USP (Universit
 - :guitar: Guitar player;
 - :weight_lifting_man: Crossfitter;
   
-### Cool projects
+### Some cool projects
 
 - **A Study about weightliftining: [here](https://github.com/Iveteras/final-weightlifting)**
-  - **Keywords:** *Python, Power Bi, web scraping, weightliftining, analysis*
 - **Cryptocurrency ETL: [here](https://github.com/Iveteras/cryptocurrency_ETL)**
-  - **Keywords:** *Python, SQL, API*
 - **A analysis about fee cancellation: [here](https://github.com/Iveteras/cancellation_analysis)**
-  - **Keywords:** *Python, seaborn, machine learning, forecasting, analysis*
 
 ### Technologies
 <div>
