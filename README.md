@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome 👋
 
+My name is Pedro
 <!--
 **Iveteras/Iveteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Technologies
+<div>
+<img height=50 widith=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+<img height=50 widith=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img height=50 widith=50 src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" />
+<img height=50 widith=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
+</div>
+
