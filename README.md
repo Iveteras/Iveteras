@@ -5,11 +5,18 @@ My name is Pedro, and I graduated in Business Administration from USP (Universit
 
 ### About me:
 
-- 🔭 From Brazil;
-- 🔭 Vancouver, BC;
-- 🔭 University of São Paulo (USP);
-- 🔭 Guitar player;
-- 🔭 Crossfitter;
+- :earth_americas: From Brazil;
+- :round_pushpin: Vancouver, BC;
+- :mortar_board: University of São Paulo (USP);
+- :guitar: Guitar player;
+- :weight_lifting_man: Crossfitter;
+  
+### Cool projects
+
+- **[A Study about weightliftining](https://github.com/Iveteras/final-weightlifting)**
+  - *Keywords:*
+- **[Cryptocurrency ETL](https://github.com/Iveteras/simple_ETL)**
+- **[A analysis about fee cancellation](https://github.com/Iveteras/cancellation_analysis)**
 
 ### Technologies
 <div>
