@@ -1,22 +1,17 @@
 ### Welcome 👋
 
-My name is Pedro
-<!--
-**Iveteras/Iveteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro, and I graduated in Business Administration from USP (University of São Paulo). Additionally, I am studying Data Analysis at Greystone College.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
 
-## Technologies
+- 🔭 From Brazil;
+- 🔭 Vancouver, BC;
+- 🔭 University of São Paulo (USP);
+- 🔭 Guitar player;
+- 🔭 Crossfitter;
+
+### Technologies
 <div>
 <img height=50 widith=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 <img height=50 widith=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -24,3 +19,4 @@ Here are some ideas to get you started:
 <img height=50 widith=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 </div>
 
+### You can also find me here:
