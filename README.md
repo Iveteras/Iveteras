@@ -13,10 +13,12 @@ My name is Pedro, and I graduated in Business Administration from USP (Universit
   
 ### Cool projects
 
-- **[A Study about weightliftining](https://github.com/Iveteras/final-weightlifting)**
-  - *Keywords:*
-- **[Cryptocurrency ETL](https://github.com/Iveteras/simple_ETL)**
-- **[A analysis about fee cancellation](https://github.com/Iveteras/cancellation_analysis)**
+- **A Study about weightliftining: [here](https://github.com/Iveteras/final-weightlifting)**
+  - **Keywords:** *Python, Power Bi, web scraping, weightliftining, analysis*
+- **Cryptocurrency ETL: [here](https://github.com/Iveteras/cryptocurrency_ETL)**
+  - **Keywords:** *Python, SQL, API*
+- **A analysis about fee cancellation: [here](https://github.com/Iveteras/cancellation_analysis)**
+  - **Keywords:** *Python, seaborn, machine learning, forecasting, analysis*
 
 ### Technologies
 <div>
@@ -27,3 +29,5 @@ My name is Pedro, and I graduated in Business Administration from USP (Universit
 </div>
 
 ### You can also find me here:
+
+<img height=20 widith=20 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /> pedro.ebiner@gmail.com
