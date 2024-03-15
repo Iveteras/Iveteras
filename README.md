@@ -27,7 +27,7 @@ My name is Pedro, and I graduated in Business Administration from USP (Universit
 
 ### You can also find me here:
 
-<img height=10 widith=10 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /> pedro.ebiner@gmail.com
+<img height=10 widith=10 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /> pedropgomar@gmail.com
 
 <img height=15 widith=15 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png" /> [My linkedin](https://www.linkedin.com/in/pedro-ebiner-273519184/)
 
