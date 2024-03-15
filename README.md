@@ -13,8 +13,8 @@ My name is Pedro, and I graduated in Business Administration from USP (Universit
   
 ### Some cool projects
 
+- **S&P 500 ETL: [here](https://github.com/Iveteras/sp_500_etl)**
 - **A Study about weightliftining: [here](https://github.com/Iveteras/final-weightlifting)**
-- **Cryptocurrency ETL: [here](https://github.com/Iveteras/cryptocurrency_ETL)**
 - **A analysis about fee cancellation: [here](https://github.com/Iveteras/cancellation_analysis)**
 
 ### Technologies
